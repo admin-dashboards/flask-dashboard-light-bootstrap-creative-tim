@@ -7,4 +7,4 @@ Read more about [Flask Dashboard Light](https://admin-dashboards.com/flask-dashb
 ![Flask Dashboard Light - App Screen Shot.](https://raw.githubusercontent.com/app-generator/static/master/flask-light-bootstrap-dashboard/light-dashboard-coded-in-flask-cover.jpg)
 
 ---
-Index provided by [Admin Dashboards](https://admin-dashboards.com)
+Provided by [Admin Dashboards](https://admin-dashboards.com)
